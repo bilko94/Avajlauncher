@@ -1,22 +1,23 @@
 package com.Simulator;
 
 import com.Simulator.vehicles.Flyable;
+import java.util.ArrayList;
 
 public abstract class Tower {
 	
-	private Flyable observers; 
+	private ArrayList<Flyable> observers = new ArrayList<>(); 
 
 	Tower(){
 
 	}
 
 	public void register(Flyable flyable){
-		this.observers = flyable;
+		observers.add(flyable);
 		//do some shit
 	}
 
 	public void unregister(Flyable flyable){
-		this.observers = null;
+		observers.remove(flyable);
 		//do some shit
 	}
 
