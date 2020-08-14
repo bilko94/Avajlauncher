@@ -1,9 +1,4 @@
-package com.avajlauncher.simulator;
-
-import java.io.BufferedReader;
-import java.io.FileReader;
-
-import com.avajlauncher.coordinates.Coordinates;
+package com.Simulator;
 
 public class Simulator {
 	public static void main(String[] args) throws InterruptedException{

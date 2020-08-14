@@ -1,6 +1,4 @@
-package com.avajlauncher.WeatherProvider;
-
-import com.avajlauncher.coordinates.Coordinates;
+package com.weather;
 
 public class WeatherProvider {
 	

@@ -1,5 +1,11 @@
-./src/com/avajlauncher/aircraft/Aircraft.java
-./src/com/avajlauncher/coordinates/Coordinates.java
-./src/com/avajlauncher/simulator/Simulator.java
-./src/com/avajlauncher/tower/Tower.java
-./src/com/avajlauncher/WeatherTower/WeatherTower.java
+./src/com/Simulator/Simulator.java
+./src/com/Simulator/Tower.java
+./src/com/Simulator/vehicles/Aircraft.java
+./src/com/Simulator/vehicles/AircraftFactory.java
+./src/com/Simulator/vehicles/Baloon.java
+./src/com/Simulator/vehicles/Flyable.java
+./src/com/Simulator/vehicles/Helicopter.java
+./src/com/Simulator/vehicles/JetPlane.java
+./src/com/Simulator/WeatherTower.java
+./src/com/weather/Coordinates.java
+./src/com/weather/WeatherProvider.java
