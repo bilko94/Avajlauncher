@@ -1,4 +1,4 @@
-package com.Simulator.vehicles;
+package com.simulator.vehicles;
 
 import com.weather.Coordinates;
 
@@ -10,8 +10,8 @@ public abstract class Aircraft {
 	private static long idCounter;
 
 	protected Aircraft(String name, Coordinates coordinates){
-		name = this.name;
-		coordinates = this.coordinates;
+		this.name = name;
+		this.coordinates = coordinates;
 	}
 
 	private long nextId(){

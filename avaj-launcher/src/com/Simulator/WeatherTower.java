@@ -1,15 +1,18 @@
-package com.Simulator;
+package com.simulator;
 
 import com.weather.Coordinates;
+import com.weather.WeatherProvider;
+import java.util.*;
 
-public class WeatherTower {
+public class WeatherTower extends Tower{
 	
 	public String getWeather(Coordinates coordinates){
-		return "One day you will give me the correct weather, But today is not that day...";
+		String[] cancer = {"Rain","Fog","Sun","Snow"};
+        return cancer[(int)(Math.random()*((3-0)+1))+0];
 	}
 	
 	void changeWeather(){
-
+		this.conditionsChanged();
 	}
 
 }

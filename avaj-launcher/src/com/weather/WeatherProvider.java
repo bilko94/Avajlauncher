@@ -6,15 +6,17 @@ public class WeatherProvider {
 	private static String[] weather;
 
 	private WeatherProvider(){
-
+		super();
 	}
 
 	public static WeatherProvider getProvider(){
-		return weatherProvider;
+		return WeatherProvider.weatherProvider;
 	}
 
 	public String getCurrentWeather(Coordinates coordinates){
-		return WeatherProvider.weather[0];
+		String[] cancer = {"Rain","Fog","Sun","Snow"};
+
+        return cancer[1];
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.Simulator.vehicles;
+package com.simulator.vehicles;
 
 import com.weather.Coordinates;
 
@@ -11,18 +11,13 @@ public abstract class AircraftFactory {
 		String str = type.toLowerCase();
 		if (str.equals("baloon")){
 			return new Baloon(name, coordinates);
-		}
-		else if (str.equals("helicopter")){
+		} else if (str.equals("helicopter")){
 			return new Helicopter(name, coordinates);
-		}
-		else if (str.equals("jetplane")){
+		} else if (str.equals("jetplane")){
 			return new JetPlane(name, coordinates);
-		}
-		else{
+		} else{
 			return null;
 		}
-
-
 	}
 
 }

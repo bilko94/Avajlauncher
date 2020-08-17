@@ -1,4 +1,4 @@
-package com.Simulator;
+package com.simulator;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -7,8 +7,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.Simulator.vehicles.AircraftFactory;
-import com.Simulator.vehicles.Flyable;
+import com.simulator.vehicles.AircraftFactory;
+import com.simulator.vehicles.Flyable;
 
 public class Simulator {
 	private static WeatherTower weatherTower;
@@ -35,12 +35,15 @@ public class Simulator {
 
 				for (Flyable flyable : flyables) {
 					flyable.registerTower(weatherTower);
+					System.out.println(flyable.test()+" created!");
 				}
 
 				for (int i = 1; i <= simulations; i++) {
+					System.out.println("Changing weather");
 					weatherTower.changeWeather();
 				}
 			}
+			reader.close();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

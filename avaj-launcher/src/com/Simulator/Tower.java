@@ -1,28 +1,25 @@
-package com.Simulator;
+package com.simulator;
 
-import com.Simulator.vehicles.Flyable;
-import java.util.ArrayList;
+import java.util.*;
+import com.simulator.vehicles.Flyable;
 
 public abstract class Tower {
 	
-	private ArrayList<Flyable> observers = new ArrayList<>(); 
-
-	Tower(){
-
-	}
+	private List<Flyable> observers = new ArrayList<>(); 
 
 	public void register(Flyable flyable){
 		observers.add(flyable);
-		//do some shit
 	}
 
 	public void unregister(Flyable flyable){
 		observers.remove(flyable);
-		//do some shit
 	}
 
 	protected void conditionsChanged(){
-		//do some shit
+		for(Flyable flyable : observers){
+			System.out.println("Condiditons Changed");
+			flyable.updateConditions();
+		}
 	}
 
 }
