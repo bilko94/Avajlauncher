@@ -16,8 +16,10 @@ public abstract class Tower {
 	}
 
 	protected void conditionsChanged(){
-		for(Flyable flyable : observers){
-			System.out.println("Condiditons Changed");
+		List<Flyable> dupObs = new ArrayList<>();
+		dupObs.addAll(observers);
+		for(Flyable flyable : dupObs){
+			// System.out.println("Condiditons Changed");
 			flyable.updateConditions();
 		}
 	}

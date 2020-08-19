@@ -1,6 +1,7 @@
 package com.simulator.vehicles;
 
 import com.weather.Coordinates;
+import com.simulator.*;
 
 public abstract class Aircraft {
 	
@@ -12,10 +13,13 @@ public abstract class Aircraft {
 	protected Aircraft(String name, Coordinates coordinates){
 		this.name = name;
 		this.coordinates = coordinates;
+		this.id = nextId();
+		Simulator.OutputFile = Simulator.OutputFile + "(" + this.id + ")";
 	}
 
 	private long nextId(){
-		return Aircraft.idCounter+1;
+		Aircraft.idCounter++;
+		return Aircraft.idCounter;
 	}
 
 }
