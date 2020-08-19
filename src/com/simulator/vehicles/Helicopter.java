@@ -29,7 +29,7 @@ public class Helicopter extends Aircraft implements Flyable{
 			Simulator.OutputFile = Simulator.OutputFile + "Helicopter#"+this.name+"("+this.id+"): Time to fly low and annoy people watching TV.\n";
 			// System.out.print("Helicopter#"+this.name+"("+this.id+"): OMG a message apppeared\n");
 		}
-		if (weather.equals("Rain")) {
+		else if (weather.equals("Rain")) {
 			this.coordinates = new Coordinates(
 				coordinates.getLongitude()+5,
 				coordinates.getLatitude(),
@@ -38,7 +38,7 @@ public class Helicopter extends Aircraft implements Flyable{
 			Simulator.OutputFile = Simulator.OutputFile + "Helicopter#"+this.name+"("+this.id+"): Close the side doors the water everywhere!\n";
 			// System.out.print("Helicopter#"+this.name+"("+this.id+"): OMG a message apppeared\n");
 		}
-		if (weather.equals("Fog")) {
+		else if (weather.equals("Fog")) {
 			this.coordinates = new Coordinates(
 				coordinates.getLongitude()+1,
 				coordinates.getLatitude(),
@@ -47,7 +47,7 @@ public class Helicopter extends Aircraft implements Flyable{
 			Simulator.OutputFile = Simulator.OutputFile + "Helicopter#"+this.name+"("+this.id+"): I'm legally blind!\n";
 			// System.out.print("Helicopter#"+this.name+"("+this.id+"): OMG a message apppeared\n");
 		}
-		if (weather.equals("Snow")) {
+		else if (weather.equals("Snow")) {
 			this.coordinates = new Coordinates(
 				coordinates.getLongitude(),
 				coordinates.getLatitude(),
@@ -63,7 +63,7 @@ public class Helicopter extends Aircraft implements Flyable{
 			100
 		);
 		if (this.coordinates.getHeight() < 0){
-			System.out.print("Landing "+this.name);
+			Simulator.OutputFile = Simulator.OutputFile + "Helicopter#"+this.name+"("+this.id+"): Landing.";
 			weatherTower.unregister(this);
 		}
 	}

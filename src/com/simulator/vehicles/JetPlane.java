@@ -28,7 +28,7 @@ public class JetPlane extends Aircraft implements Flyable{
 			Simulator.OutputFile = Simulator.OutputFile + "JetPlane#"+this.name+"("+this.id+"): All this sun is making this cockpit really hot.\n";
 			// System.out.print("JetPlane#"+this.name+"("+this.id+"): OMG a message apppeared\n");
 		}
-		if (weather.equals("Rain")) {
+		else if (weather.equals("Rain")) {
 			this.coordinates = new Coordinates(
 				coordinates.getLongitude(),
 				coordinates.getLatitude()+5,
@@ -37,7 +37,7 @@ public class JetPlane extends Aircraft implements Flyable{
 			Simulator.OutputFile = Simulator.OutputFile + "JetPlane#"+this.name+"("+this.id+"): Why don't jets have window wipers?\n";
 			// System.out.print("JetPlane#"+this.name+"("+this.id+"): OMG a message apppeared\n");
 		}
-		if (weather.equals("Fog")) {
+		else if (weather.equals("Fog")) {
 			this.coordinates = new Coordinates(
 				coordinates.getLongitude(),
 				coordinates.getLatitude()+1,
@@ -46,7 +46,7 @@ public class JetPlane extends Aircraft implements Flyable{
 			Simulator.OutputFile = Simulator.OutputFile + "JetPlane#"+this.name+"("+this.id+"): Alpha two whats your coordinates i can't see shit!\n";
 			// System.out.print("JetPlane#"+this.name+"("+this.id+"): OMG a message apppeared\n");
 		}
-		if (weather.equals("Snow")) {
+		else if (weather.equals("Snow")) {
 			this.coordinates = new Coordinates(
 				coordinates.getLongitude(),
 				coordinates.getLatitude(),
@@ -56,7 +56,7 @@ public class JetPlane extends Aircraft implements Flyable{
 			// System.out.print("JetPlane#"+this.name+"("+this.id+"): OMG a message apppeared\n");
 		}
 		if (this.coordinates.getHeight() < 0){
-			System.out.print("Landing "+this.name);
+			Simulator.OutputFile = Simulator.OutputFile + "JetPlane#"+this.name+"("+this.id+"): Landing.";
 			weatherTower.unregister(this);
 		}
 	}
