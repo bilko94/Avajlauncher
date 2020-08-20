@@ -41,11 +41,6 @@ public class Simulator {
 				File myObj = new File("Simulation.txt");
 				myObj.createNewFile();
 
-				// for (Flyable flyable : flyables) {
-				// 	flyable.registerTower(weatherTower);
-				// 	System.out.println(flyable.test()+" created!");
-				// }
-
 				for (int i = 1; i <= simulations; i++) {
 					// System.out.println("Changing weather");
 					weatherTower.changeWeather();
@@ -58,10 +53,26 @@ public class Simulator {
 
 			}
 			reader.close();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
 		}
+		catch (FileNotFoundException e) {
+            System.out.println("File not found exception " + args[0]);
+        }
+        catch (IOException e) {
+            System.out.println("Error reading file: " + args[0]);
+        }
+        catch (ArrayIndexOutOfBoundsException e) {
+            System.out.println("File error");
+        }
+		catch (NumberFormatException e) {
+			System.out.println("Invalid number format in scenario file");
+		}
+		catch (NullPointerException e) {
+			System.out.println("Null point found in file");
+		}
+        catch (Exception e) {
+            System.out.println("Invalid input inside scenario file");
+			e.printStackTrace();
+        }
 	}
 	
 }

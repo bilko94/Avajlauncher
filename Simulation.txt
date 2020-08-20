@@ -8,131 +8,150 @@ Tower says: Helicopter#H3(6) registered to weather tower.
 Tower says: Baloon#B3(7) registered to weather tower.
 Tower says: JetPlane#J2(8) registered to weather tower.
 Tower says: Helicopter#H4(9) registered to weather tower.
-Baloon#B1(1): My mama said if you can't spell Balloon then santa gonna send you coal.
-Baloon#B2(2): Such a nice day, too bad we can't spell Balloon properly.
-JetPlane#J1(3): Nice cold day for a sick Jetstream.
-Helicopter#H1(4): Close the side doors the water everywhere!
-Helicopter#H2(5): I'm legally blind!
-Helicopter#H3(6): Maybe we should land i've seen what happens to Heli's in Godzilla
-Baloon#B3(7): Such a nice day, too bad we can't spell Balloon properly.
-JetPlane#J2(8): Nice cold day for a sick Jetstream.
-Helicopter#H4(9): Maybe we should land i've seen what happens to Heli's in Godzilla
-Baloon#B1(1): My mama said if you can't spell Balloon then santa gonna send you coal.
-Baloon#B1(1): Landing.Baloon#B2(2): Such a nice day, too bad we can't spell Balloon properly.
-JetPlane#J1(3): Nice cold day for a sick Jetstream.
-Helicopter#H1(4): I'm legally blind!
-Helicopter#H2(5): Time to fly low and annoy people watching TV.
-Helicopter#H3(6): Close the side doors the water everywhere!
-Baloon#B3(7): My mama said if you can't spell Balloon then santa gonna send you coal.
-JetPlane#J2(8): Alpha two whats your coordinates i can't see shit!
-Helicopter#H4(9): Maybe we should land i've seen what happens to Heli's in Godzilla
+Baloon#B1(1): I guess we deserve this rain considering we can't spell Balloon.
 Baloon#B2(2): My mama said if you can't spell Balloon then santa gonna send you coal.
 JetPlane#J1(3): Nice cold day for a sick Jetstream.
 Helicopter#H1(4): Time to fly low and annoy people watching TV.
-Helicopter#H2(5): Maybe we should land i've seen what happens to Heli's in Godzilla
-Helicopter#H3(6): Maybe we should land i've seen what happens to Heli's in Godzilla
-Baloon#B3(7): My mama said if you can't spell Balloon then santa gonna send you coal.
-JetPlane#J2(8): All this sun is making this cockpit really hot.
-Helicopter#H4(9): Maybe we should land i've seen what happens to Heli's in Godzilla
-Baloon#B2(2): I guess we deserve this rain considering we can't spell Balloon.
-JetPlane#J1(3): Nice cold day for a sick Jetstream.
-Helicopter#H1(4): Close the side doors the water everywhere!
 Helicopter#H2(5): Close the side doors the water everywhere!
 Helicopter#H3(6): Close the side doors the water everywhere!
-Baloon#B3(7): Such a nice day, too bad we can't spell Balloon properly.
+Baloon#B3(7): Surprised we can fly in this weather.
+JetPlane#J2(8): Nice cold day for a sick Jetstream.
+Helicopter#H4(9): Time to fly low and annoy people watching TV.
+Baloon#B1(1): My mama said if you can't spell Balloon then santa gonna send you coal.
+Baloon#B2(2): My mama said if you can't spell Balloon then santa gonna send you coal.
+JetPlane#J1(3): Why don't jets have window wipers?
+Helicopter#H1(4): Maybe we should land i've seen what happens to Heli's in Godzilla
+Helicopter#H2(5): I'm legally blind!
+Helicopter#H3(6): Time to fly low and annoy people watching TV.
+Baloon#B3(7): Surprised we can fly in this weather.
 JetPlane#J2(8): Nice cold day for a sick Jetstream.
 Helicopter#H4(9): Maybe we should land i've seen what happens to Heli's in Godzilla
-Baloon#B2(2): My mama said if you can't spell Balloon then santa gonna send you coal.
+Baloon#B1(1): Surprised we can fly in this weather.
+Baloon#B1(1): Landing.Baloon#B2(2): Such a nice day, too bad we can't spell Balloon properly.
+JetPlane#J1(3): Why don't jets have window wipers?
+Helicopter#H1(4): I'm legally blind!
+Helicopter#H2(5): Close the side doors the water everywhere!
+Helicopter#H3(6): Close the side doors the water everywhere!
+Baloon#B3(7): I guess we deserve this rain considering we can't spell Balloon.
+JetPlane#J2(8): Alpha two whats your coordinates i can't see shit!
+Helicopter#H4(9): I'm legally blind!
+Baloon#B2(2): I guess we deserve this rain considering we can't spell Balloon.
+JetPlane#J1(3): Why don't jets have window wipers?
+Helicopter#H1(4): Time to fly low and annoy people watching TV.
+Helicopter#H2(5): I'm legally blind!
+Helicopter#H3(6): Maybe we should land i've seen what happens to Heli's in Godzilla
+Baloon#B3(7): Surprised we can fly in this weather.
+JetPlane#J2(8): Why don't jets have window wipers?
+Helicopter#H4(9): Maybe we should land i've seen what happens to Heli's in Godzilla
+Baloon#B2(2): I guess we deserve this rain considering we can't spell Balloon.
 JetPlane#J1(3): All this sun is making this cockpit really hot.
 Helicopter#H1(4): I'm legally blind!
-Helicopter#H2(5): I'm legally blind!
+Helicopter#H2(5): Maybe we should land i've seen what happens to Heli's in Godzilla
+Helicopter#H3(6): I'm legally blind!
+Baloon#B3(7): I guess we deserve this rain considering we can't spell Balloon.
+JetPlane#J2(8): Nice cold day for a sick Jetstream.
+Helicopter#H4(9): Maybe we should land i've seen what happens to Heli's in Godzilla
+Baloon#B2(2): Surprised we can fly in this weather.
+JetPlane#J1(3): Why don't jets have window wipers?
+Helicopter#H1(4): Close the side doors the water everywhere!
+Helicopter#H2(5): Maybe we should land i've seen what happens to Heli's in Godzilla
+Helicopter#H3(6): I'm legally blind!
+Baloon#B3(7): Such a nice day, too bad we can't spell Balloon properly.
+JetPlane#J2(8): Alpha two whats your coordinates i can't see shit!
+Helicopter#H4(9): Time to fly low and annoy people watching TV.
+Baloon#B2(2): I guess we deserve this rain considering we can't spell Balloon.
+JetPlane#J1(3): Nice cold day for a sick Jetstream.
+Helicopter#H1(4): Time to fly low and annoy people watching TV.
+Helicopter#H2(5): Time to fly low and annoy people watching TV.
 Helicopter#H3(6): I'm legally blind!
 Baloon#B3(7): My mama said if you can't spell Balloon then santa gonna send you coal.
-Baloon#B3(7): Landing.JetPlane#J2(8): All this sun is making this cockpit really hot.
-Helicopter#H4(9): Time to fly low and annoy people watching TV.
-Baloon#B2(2): My mama said if you can't spell Balloon then santa gonna send you coal.
-JetPlane#J1(3): Why don't jets have window wipers?
-Helicopter#H1(4): Time to fly low and annoy people watching TV.
-Helicopter#H2(5): Maybe we should land i've seen what happens to Heli's in Godzilla
-Helicopter#H3(6): Close the side doors the water everywhere!
-JetPlane#J2(8): Why don't jets have window wipers?
-Helicopter#H4(9): Close the side doors the water everywhere!
-Baloon#B2(2): Such a nice day, too bad we can't spell Balloon properly.
-JetPlane#J1(3): All this sun is making this cockpit really hot.
-Helicopter#H1(4): Close the side doors the water everywhere!
-Helicopter#H2(5): Maybe we should land i've seen what happens to Heli's in Godzilla
-Helicopter#H3(6): Time to fly low and annoy people watching TV.
-JetPlane#J2(8): Why don't jets have window wipers?
+JetPlane#J2(8): Alpha two whats your coordinates i can't see shit!
 Helicopter#H4(9): I'm legally blind!
+Baloon#B2(2): Such a nice day, too bad we can't spell Balloon properly.
+JetPlane#J1(3): Nice cold day for a sick Jetstream.
+Helicopter#H1(4): Time to fly low and annoy people watching TV.
+Helicopter#H2(5): Close the side doors the water everywhere!
+Helicopter#H3(6): Close the side doors the water everywhere!
+Baloon#B3(7): I guess we deserve this rain considering we can't spell Balloon.
+Baloon#B3(7): Landing.JetPlane#J2(8): Why don't jets have window wipers?
+Helicopter#H4(9): Maybe we should land i've seen what happens to Heli's in Godzilla
+Baloon#B2(2): Such a nice day, too bad we can't spell Balloon properly.
+JetPlane#J1(3): Why don't jets have window wipers?
+Helicopter#H1(4): Maybe we should land i've seen what happens to Heli's in Godzilla
+Helicopter#H2(5): Time to fly low and annoy people watching TV.
+Helicopter#H3(6): Time to fly low and annoy people watching TV.
+JetPlane#J2(8): Alpha two whats your coordinates i can't see shit!
+Helicopter#H4(9): Time to fly low and annoy people watching TV.
+Baloon#B2(2): I guess we deserve this rain considering we can't spell Balloon.
+JetPlane#J1(3): Nice cold day for a sick Jetstream.
+Helicopter#H1(4): Time to fly low and annoy people watching TV.
+Helicopter#H2(5): Time to fly low and annoy people watching TV.
+Helicopter#H3(6): I'm legally blind!
+JetPlane#J2(8): Alpha two whats your coordinates i can't see shit!
+Helicopter#H4(9): Close the side doors the water everywhere!
 Baloon#B2(2): Surprised we can fly in this weather.
 JetPlane#J1(3): All this sun is making this cockpit really hot.
 Helicopter#H1(4): Time to fly low and annoy people watching TV.
 Helicopter#H2(5): Close the side doors the water everywhere!
 Helicopter#H3(6): Time to fly low and annoy people watching TV.
 JetPlane#J2(8): All this sun is making this cockpit really hot.
-Helicopter#H4(9): Close the side doors the water everywhere!
+Helicopter#H4(9): Maybe we should land i've seen what happens to Heli's in Godzilla
 Baloon#B2(2): Surprised we can fly in this weather.
+JetPlane#J1(3): Nice cold day for a sick Jetstream.
+Helicopter#H1(4): Time to fly low and annoy people watching TV.
+Helicopter#H2(5): Maybe we should land i've seen what happens to Heli's in Godzilla
+Helicopter#H3(6): Time to fly low and annoy people watching TV.
+JetPlane#J2(8): All this sun is making this cockpit really hot.
+Helicopter#H4(9): Maybe we should land i've seen what happens to Heli's in Godzilla
+Helicopter#H4(9): Landing.Baloon#B2(2): I guess we deserve this rain considering we can't spell Balloon.
 JetPlane#J1(3): Why don't jets have window wipers?
 Helicopter#H1(4): Maybe we should land i've seen what happens to Heli's in Godzilla
-Helicopter#H2(5): Time to fly low and annoy people watching TV.
-Helicopter#H3(6): Close the side doors the water everywhere!
+Helicopter#H2(5): I'm legally blind!
+Helicopter#H3(6): I'm legally blind!
 JetPlane#J2(8): Nice cold day for a sick Jetstream.
-Helicopter#H4(9): I'm legally blind!
-Baloon#B2(2): Such a nice day, too bad we can't spell Balloon properly.
+Baloon#B2(2): Surprised we can fly in this weather.
 JetPlane#J1(3): Why don't jets have window wipers?
+Helicopter#H1(4): Time to fly low and annoy people watching TV.
+Helicopter#H2(5): Close the side doors the water everywhere!
+Helicopter#H3(6): Maybe we should land i've seen what happens to Heli's in Godzilla
+JetPlane#J2(8): All this sun is making this cockpit really hot.
+Baloon#B2(2): Surprised we can fly in this weather.
+JetPlane#J1(3): Why don't jets have window wipers?
+Helicopter#H1(4): Close the side doors the water everywhere!
+Helicopter#H2(5): Close the side doors the water everywhere!
+Helicopter#H3(6): Time to fly low and annoy people watching TV.
+JetPlane#J2(8): Nice cold day for a sick Jetstream.
+Baloon#B2(2): My mama said if you can't spell Balloon then santa gonna send you coal.
+Baloon#B2(2): Landing.JetPlane#J1(3): Alpha two whats your coordinates i can't see shit!
 Helicopter#H1(4): Maybe we should land i've seen what happens to Heli's in Godzilla
 Helicopter#H2(5): Maybe we should land i've seen what happens to Heli's in Godzilla
 Helicopter#H3(6): Time to fly low and annoy people watching TV.
 JetPlane#J2(8): Alpha two whats your coordinates i can't see shit!
-Helicopter#H4(9): Close the side doors the water everywhere!
-Baloon#B2(2): I guess we deserve this rain considering we can't spell Balloon.
-JetPlane#J1(3): Nice cold day for a sick Jetstream.
+JetPlane#J1(3): Why don't jets have window wipers?
+Helicopter#H1(4): I'm legally blind!
+Helicopter#H2(5): Close the side doors the water everywhere!
+Helicopter#H3(6): Close the side doors the water everywhere!
+JetPlane#J2(8): All this sun is making this cockpit really hot.
+JetPlane#J1(3): All this sun is making this cockpit really hot.
 Helicopter#H1(4): Maybe we should land i've seen what happens to Heli's in Godzilla
 Helicopter#H1(4): Landing.Helicopter#H2(5): Time to fly low and annoy people watching TV.
-Helicopter#H3(6): Close the side doors the water everywhere!
-JetPlane#J2(8): Alpha two whats your coordinates i can't see shit!
-Helicopter#H4(9): I'm legally blind!
-Baloon#B2(2): Such a nice day, too bad we can't spell Balloon properly.
-JetPlane#J1(3): Alpha two whats your coordinates i can't see shit!
-Helicopter#H2(5): Close the side doors the water everywhere!
-Helicopter#H3(6): Time to fly low and annoy people watching TV.
-JetPlane#J2(8): All this sun is making this cockpit really hot.
-Helicopter#H4(9): Close the side doors the water everywhere!
-Baloon#B2(2): I guess we deserve this rain considering we can't spell Balloon.
-JetPlane#J1(3): Nice cold day for a sick Jetstream.
-JetPlane#J1(3): Landing.Helicopter#H2(5): Time to fly low and annoy people watching TV.
-Helicopter#H3(6): Maybe we should land i've seen what happens to Heli's in Godzilla
+Helicopter#H3(6): I'm legally blind!
 JetPlane#J2(8): Nice cold day for a sick Jetstream.
-Helicopter#H4(9): Maybe we should land i've seen what happens to Heli's in Godzilla
-Helicopter#H4(9): Landing.Baloon#B2(2): Such a nice day, too bad we can't spell Balloon properly.
-Helicopter#H2(5): Close the side doors the water everywhere!
-Helicopter#H3(6): Time to fly low and annoy people watching TV.
-JetPlane#J2(8): Nice cold day for a sick Jetstream.
-Baloon#B2(2): Such a nice day, too bad we can't spell Balloon properly.
+JetPlane#J1(3): All this sun is making this cockpit really hot.
 Helicopter#H2(5): Maybe we should land i've seen what happens to Heli's in Godzilla
-Helicopter#H2(5): Landing.Helicopter#H3(6): I'm legally blind!
-JetPlane#J2(8): Why don't jets have window wipers?
-Baloon#B2(2): Such a nice day, too bad we can't spell Balloon properly.
-Helicopter#H3(6): Close the side doors the water everywhere!
-JetPlane#J2(8): Why don't jets have window wipers?
-Baloon#B2(2): My mama said if you can't spell Balloon then santa gonna send you coal.
-Helicopter#H3(6): I'm legally blind!
+Helicopter#H2(5): Landing.Helicopter#H3(6): Maybe we should land i've seen what happens to Heli's in Godzilla
 JetPlane#J2(8): Nice cold day for a sick Jetstream.
-Baloon#B2(2): My mama said if you can't spell Balloon then santa gonna send you coal.
-Helicopter#H3(6): Close the side doors the water everywhere!
-JetPlane#J2(8): Alpha two whats your coordinates i can't see shit!
-Baloon#B2(2): I guess we deserve this rain considering we can't spell Balloon.
-Baloon#B2(2): Landing.Helicopter#H3(6): Close the side doors the water everywhere!
-JetPlane#J2(8): All this sun is making this cockpit really hot.
-Helicopter#H3(6): Time to fly low and annoy people watching TV.
-JetPlane#J2(8): All this sun is making this cockpit really hot.
-Helicopter#H3(6): Close the side doors the water everywhere!
-JetPlane#J2(8): Why don't jets have window wipers?
+JetPlane#J1(3): Alpha two whats your coordinates i can't see shit!
 Helicopter#H3(6): Maybe we should land i've seen what happens to Heli's in Godzilla
-JetPlane#J2(8): Why don't jets have window wipers?
-Helicopter#H3(6): Time to fly low and annoy people watching TV.
+JetPlane#J2(8): Nice cold day for a sick Jetstream.
+JetPlane#J1(3): Nice cold day for a sick Jetstream.
+JetPlane#J1(3): Landing.Helicopter#H3(6): Close the side doors the water everywhere!
 JetPlane#J2(8): Alpha two whats your coordinates i can't see shit!
 Helicopter#H3(6): Close the side doors the water everywhere!
+JetPlane#J2(8): Why don't jets have window wipers?
+Helicopter#H3(6): Time to fly low and annoy people watching TV.
+JetPlane#J2(8): Nice cold day for a sick Jetstream.
+Helicopter#H3(6): Close the side doors the water everywhere!
 JetPlane#J2(8): All this sun is making this cockpit really hot.
-Helicopter#H3(6): I'm legally blind!
+Helicopter#H3(6): Maybe we should land i've seen what happens to Heli's in Godzilla
 JetPlane#J2(8): Why don't jets have window wipers?
