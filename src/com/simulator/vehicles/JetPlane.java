@@ -56,7 +56,8 @@ public class JetPlane extends Aircraft implements Flyable{
 			// System.out.print("JetPlane#"+this.name+"("+this.id+"): OMG a message apppeared\n");
 		}
 		if (this.coordinates.getHeight() < 0){
-			Simulator.OutputFile = Simulator.OutputFile + "JetPlane#"+this.name+"("+this.id+"): Landing.";
+			Simulator.OutputFile = Simulator.OutputFile + "JetPlane#"+this.name+"("+this.id+"): Landing. Coordinates: "+coordinates.getLongitude()+":"+coordinates.getLatitude()+"\n";
+			Simulator.OutputFile = Simulator.OutputFile + "Tower says: JetPlane#"+this.name+"("+this.id+") unregistered from weather tower.\n";
 			weatherTower.unregister(this);
 		}
 	}
