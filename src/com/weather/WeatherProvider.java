@@ -14,9 +14,9 @@ public class WeatherProvider {
 	}
 
 	public String getCurrentWeather(Coordinates coordinates){
-		String[] cancer = {"Rain","Fog","Sun","Snow"};
+		String[] weather = {"Rain","Fog","Sun","Snow"};
 
-        return cancer[1];
+        return weather[1];
 	}
 
 }
